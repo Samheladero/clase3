@@ -1,0 +1,35 @@
+table, td, th{
+    border:1px solid black;
+}
+
+div{
+    background-color: pink;
+    padding: 10px;
+    width: 360px;
+    
+}
+
+td, th{
+    padding: 20px;
+    text-align: center;
+    
+}
+
+table{
+    background-color: brown;
+    margin: 20px;
+    border-radius: 5px;
+
+}
+
+.Titulos{
+    color: aqua;
+}
+
+.Samuel{
+    color: lightsalmon;
+}
+
+.Camila{
+    color: salmon;
+}
